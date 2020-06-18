@@ -1,2 +1,4 @@
 # RepoTest
-Testing PR's ang merging of public repo's
+Testing PRs and merging of public repos
+
+Annihilating grocer's apostrophes
